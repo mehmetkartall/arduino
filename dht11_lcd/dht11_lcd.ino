@@ -101,7 +101,7 @@ void loop() {
   {
     lcd.clear();
     lcd.setCursor(0, 0);
-    lcd.print("DUSUK HAVA NEMI");
+    lcd.print("DUSUK HAVA hNEMI");
     delay(1000);
     lcd.clear();
     lcd.setCursor(1, 0);
